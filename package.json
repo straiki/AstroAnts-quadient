@@ -1,0 +1,20 @@
+{
+  "name": "astro-ants-quadient",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node ./node_modules/nodemon/bin/nodemon ./index.js",
+    "install": "npm i",
+    "run": "node ./index.js"
+  },
+  "author": "Tomas Vahalik <t.vahalik@quadient.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.82.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
