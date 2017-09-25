@@ -30,7 +30,7 @@ main().then().catch(() => {
 /**
  * @typedef {object} AstroAnts
  * @property {{areas: Array.<string>}} map
- * @property {Position} ants
+ * @property {Position} astroAnts
  * @property {Position} sugar
  * @property {number} id
  */
